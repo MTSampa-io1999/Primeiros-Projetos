@@ -1,5 +1,6 @@
 ## Bem-vindo(a) ao perfil do MTSampa-io1999😁
-
+Estou me desenvolvendo em programação, e atualmente estou cursando tecnico em desenvolvimento de sistemas.
+Aqui nesse perfil  estará todos os meus projetos iniciais e futuros.
  <div>
    <a href="https://github.com/MTSampa-io1999
 ">
@@ -23,7 +24,5 @@
  <a href="https://discord.gg/MatSampaiO#5771" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheuseduardovr20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mateus-eduardo-a6a6921a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/MTSampa-io1999/MTSampa-io1999/blob/output/github-contribution-grid-snake.svg)
 
 </div>
